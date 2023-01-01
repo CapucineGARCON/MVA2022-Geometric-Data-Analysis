@@ -3,7 +3,7 @@ Codebase for a school project at MVA in Ecole Normale Supérieur Paris-Saclay, s
 
 ## Authors
 
-- Sonia MAZELET ([github]())
+- Sonia MAZELET ([github](https://github.com/SoniaMaz8))
 
 - Capucine GARÇON ([github](https://github.com/CapucineGARCON))
 
