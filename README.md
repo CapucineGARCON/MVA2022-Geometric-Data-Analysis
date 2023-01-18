@@ -1,4 +1,7 @@
 # MVA2022-Geometric-Data-Analysis
+
+## Clustering with Multi-Layer graphs
+
 Codebase studying [Dong & al's](https://arxiv.org/abs/1106.2233v1), for a school project in the Geometric Data Analysis Course (Jean Feydy) at Master 2 MVA in Ecole Normale Superieure Paris-Saclay. 
 
 We studied the clustering of multilayer graphs on two different datasets. Specifically, we implemented two algorithms derived from the single-layer Normalized Spectral Clustering algorithm : one based on eigen-decomposition to build a joint spectrum between the different layers of the graph and the other based on spectral regularization. We used the Kernel K-means algorithm as a baseline and compared our results with the single-layer clustering algorithm to show that multi-layer graph clustering performs better. You can read the report or have a look at the slides for more details. 
